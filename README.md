@@ -4,7 +4,7 @@ Hello!
 
 My name is Edward and I'm passionate about tech.
 
-- Outside of tech I have an interest in the outdoors such as hiking and fishing, cooking, pc gaming, Star Trek, music, and gardening.
+- Outside of tech I have an interest in the outdoors such as hiking and fishing, cooking, pc gaming, science, Star Trek, music, and gardening.
 - Currently I'm working on teaching myself Terraform and Kubernetes
 
 ---
